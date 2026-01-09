@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(254, 248, 248);
+    padding: 10px;
+}
+
+.Title{
+    color: rgb(137, 2, 54);
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.deleteButton{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+.addButton{
+    background-color: #9eea94;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: rgb(4, 79, 27);
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+
+}
+
+.accept{
+    background-color: #e7fbb0;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: rgb(4, 79, 27);
+}
+
+.createUser{
+    background-color: #df9cc2;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: rgb(4, 79, 27);
+}
